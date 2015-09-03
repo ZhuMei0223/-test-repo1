@@ -2,3 +2,5 @@
 test repository for courses
 
 #links to helpful sites
+*{github}{www.github.com}
+*[StackOverflow][http://stackoverflow.com]
